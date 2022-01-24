@@ -11,9 +11,13 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-
+  
 ##
- 
+<div align="right">
+  
+  ![caricaturaRafael](https://user-images.githubusercontent.com/98191201/150866178-60598e6e-e1e0-4d46-82f9-2eeca0aebad9.jpeg) 
+  
+</div>
 <div> 
 
   <a href = "mailto:rafaelcecyn80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -22,5 +26,6 @@
   
   ![Snake animation](https://github.com/RafaelCecyn/RafaelCecyn/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
   
 
