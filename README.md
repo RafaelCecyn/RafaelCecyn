@@ -1,4 +1,4 @@
-## Hi I am Rafael, a python dev!
+## Hi I am Rafael, a fullstack dev!
 <div align="center">
   <a href="https://github.com/RafaelCecyn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCecyn&theme=merko&include_all_commits=true&count_private=true"/>
